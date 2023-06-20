@@ -25,7 +25,7 @@ Please note that this version of the software is not currently building successf
 Building an embedded system for a vending machine has been a valuable learning experience. Working with the PIC16882F microcontroller has given me insights into the design and implementation of embedded systems in a real-world application. While I have encountered some challenges, I'm continuously learning and improving the system.
 
 ## Time Spent on the Project
-Work on this project is ongoing. We are committed to resolving the current build issues and enhancing the overall functionality of the vending machine system.
+Work on this project is ongoing. I'm committed to resolving the current build issues and enhancing the overall functionality of the vending machine system.
 
 ## Acknowledgments
 
