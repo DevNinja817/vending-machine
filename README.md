@@ -26,3 +26,9 @@ Building an embedded system for a vending machine has been a valuable learning e
 
 ## Time Spent on the Project
 Work on this project is ongoing. We are committed to resolving the current build issues and enhancing the overall functionality of the vending machine system.
+
+## Acknowledgments
+
+- The Microchip Team for providing a robust and easy-to-use development environment for PIC microcontrollers.
+- The University of Huddersfield for their support and resources.
+
