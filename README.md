@@ -19,7 +19,7 @@ System outputs are simulated using the LEDs and the LCD display. LEDs are used t
 To install the firmware, you need to compile the source code using the MPLAB X IDE and XC8 Compiler, and then flash the compiled hex file to the PIC16882F microcontroller. Please refer to the Microchip website for detailed instructions.
 
 ## Known Issues
-Please note that this version of the software is not currently building successfully due to some unresolved bugs. We are actively working to rectify these issues. Your patience is greatly appreciated.
+Please note that this version of the software is not currently building successfully due to some unresolved bugs.
 
 ## Observations and Thoughts
 Building an embedded system for a vending machine has been a valuable learning experience. Working with the PIC16882F microcontroller has given me insights into the design and implementation of embedded systems in a real-world application. While I have encountered some challenges, I'm continuously learning and improving the system.
