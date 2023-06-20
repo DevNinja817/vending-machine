@@ -1,7 +1,9 @@
 # Vending Machine Embedded System
 
 ## Introduction
-This project is an embedded system for a vending machine, designed around the PIC16882F microcontroller. This software handles fundamental vending machine operations such as coin input/output, product dispensation, and drink selection.
+This project is an embedded system for a vending machine, designed around the PIC16882F microcontroller. This software handles fundamental vending machine operations such as coin input/output, product dispensation, drink selection, and various other features.
+
+This is the vending machines system schematic:
 
 <img width="340" alt="image" src="https://github.com/regX1/vending-machine/assets/98269264/d1ff4668-9abe-4062-b399-a61e8933ef83">
 
